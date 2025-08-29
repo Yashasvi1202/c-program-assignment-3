@@ -6,8 +6,8 @@ int main()
   scanf("%d",&n);
   for(i=1;i<n+1;i++)
   {
-      if(i%2==0){
-        printf("%d \n",i);
+      int k=(i*2);{
+        printf("%d \n",k);
       }
   } return 0;
 }
